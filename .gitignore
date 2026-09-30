@@ -1,0 +1,13 @@
+# Build Artifacts
+build/
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+
+# Editor and IDE metadata
+.vscode/
+.idea/
+*.swp
+*~
